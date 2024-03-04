@@ -1,4 +1,4 @@
-# Dashboard-Dicoding-Belajar-Analisis-Dengan-Python ✨
+# Dashboard Dicoding Belajar Analisis Dengan Python ✨
 
 ## Setup environment
 
