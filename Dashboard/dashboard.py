@@ -9,7 +9,7 @@ image = Image.open('Dashboard/clemsonbikeshare.jpg')
 
 st.image(image, caption='~')
 
-data_day = pd.read_csv("C:/Users/COMPUTER/Documents/Bangkit dicoding/Belajar Analisis Data Python/Submission/Data/day.csv")
+data_day = pd.read_csv("Data/day.csv")
 
 
 st.markdown('Halaman ini menampilkan sejumlah visualisasi dan bagan dari data bike sharing')
