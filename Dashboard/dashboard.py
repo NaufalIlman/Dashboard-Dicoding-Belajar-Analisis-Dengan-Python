@@ -5,7 +5,7 @@ import plotly.express as px
 st.title("Dashboard Bike Sharing Dataset")
 
 from PIL import Image
-image = Image.open('clemsonbikeshare.jpg')
+image = Image.open('Dashboard/clemsonbikeshare.jpg')
 
 st.image(image, caption='~')
 
